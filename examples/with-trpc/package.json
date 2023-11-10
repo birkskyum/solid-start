@@ -15,15 +15,15 @@
     "vite": "^4.4.9"
   },
   "dependencies": {
+    "@solid-mediakit/trpc": "^1.0.2",
     "@solidjs/meta": "^0.29.1",
     "@solidjs/router": "^0.8.3",
-    "@tanstack/solid-query": "5.0.0-alpha.20",
-    "@trpc/client": "^10.37.1",
-    "@trpc/server": "^10.37.1",
+    "@tanstack/solid-query": "5.8.1",
+    "@trpc/client": "^10.43.3",
+    "@trpc/server": "^10.43.3",
     "solid-js": "^1.8.5",
     "solid-start": "^0.3.10",
     "solid-start-trpc": "^0.0.16",
-    "solid-trpc": "0.1.0-sssr.7",
     "zod": "^3.22.1"
   },
   "engines": {
